@@ -1,3 +1,5 @@
+![Devincy Logo](images/logo.png)
+
 # Coming Soon: MyAssetApp
 The lists below group items by the room in which they are most likely to be found or items by a category. Beside the items you have in your house, you will need to write a brief description of the item, when and where it was bought and the make or model number. For items like books, CDs, sheets or pots and pans, you can make a general estimate of how many you have and their estimated value. <br>
 _list adopted from __[Farm Bureau Insurance](https://www.scfbins.com/articles/home-inventory-checklist)___ (_Changes may apply_)<br><br>

@@ -1,0 +1,27 @@
+{
+  "name": "MyAssetsApp",
+  "version": "0.0.1",
+  "description": "MyAssetsApp stores the important iformation of your valuables in the case of loss or theft. You can use this app in conjunction with your insurrance company to get your reimbursement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DestinMincy/MyAssetsApp.git"
+  },
+  "keywords": [
+    "Assets",
+    "MyAssetsApp",
+    "Inventory"
+  ],
+  "author": "Destin Mincy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DestinMincy/MyAssetsApp/issues"
+  },
+  "homepage": "https://github.com/DestinMincy/MyAssetsApp#readme",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}

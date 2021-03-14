@@ -1,4 +1,4 @@
-![Devincy Logo]( ./images/logo.svg )
+[![Devincy Logo]( ./images/logo.svg )](https://github.com/DestinMincy/MyAssetsApp)
 
 # Coming Soon: MyAssetApp
 The lists below group items by the room in which they are most likely to be found or items by a category. Beside the items you have in your house, you will need to write a brief description of the item, when and where it was bought and the make or model number. For items like books, CDs, sheets or pots and pans, you can make a general estimate of how many you have and their estimated value. <br>
@@ -163,15 +163,43 @@ It's also important to keep a record of legal documents, such as birth certifica
 # App Information
 
 ## Backend Framework
-NodeJs will be the core of this project. All functions will be done via a NodeJs server API. 
+* NodeJs will be the core of this project. All functions will be done via a NodeJs server API
 
 ## Frontend Framework
-React and React-Native will be the frontend of choice for the Web and Mobile varients of the app.
+* React and React-Native will be the frontend of choice for the Web and Mobile varients of the app
 
 ## Database
-Undetermined as of yet. (MongoDB or MySQL)
+* PostgreSQL for Web Client <br>
+* SQLite for Mobile Client for optimization
+* Potential of using Postgres Docker image as base for containerization
+
+## Installing PostgreSQL
+
+# Linux
+Open and run the following command in Linux/WSL(2) terminal
+
+>```sudo install postgresql -y```
+
+<br>
+
+# Windows
+Download and install the PostgreSQL installation file at https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+<br><br>
+
+# Mac OS
+Tutorial on how to install on Mac OS can be found at https://dataschool.com/learn-sql/how-to-start-a-postgresql-server-on-mac-os-x/ and cover both the installation media as well as the homebrew method
+<br><br>
+
+# Docker Container
+Docker container used as the base for the containerization will be obtained via:<br>
+
+>``` docker pull postgres ```
+
+Documentation on the postgres doacker image can be found at https://hub.docker.com/_/postgres/
 
 
 
-<br><br><hr>
+<br><br>
+Where to file issues: https://github.com/DestinMincy/MyAssetsApp/issues
+<hr>
 _Copyright &copy; 2021 Destin Mincy. All Rights Reserved._

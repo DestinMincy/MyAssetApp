@@ -1,0 +1,17 @@
+version: '3.1'
+
+services:
+
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_DB: MyAssetsApp
+      POSTGRES_USER: myassetsapp
+      POSTGRES_PASSWORD: $4JqS:Tf)7%b8+??[[#{hX/
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080

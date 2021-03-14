@@ -1,4 +1,4 @@
-![Devincy Logo](images/logo.png)
+![Devincy Logo]( ./images/logo.svg )
 
 # Coming Soon: MyAssetApp
 The lists below group items by the room in which they are most likely to be found or items by a category. Beside the items you have in your house, you will need to write a brief description of the item, when and where it was bought and the make or model number. For items like books, CDs, sheets or pots and pans, you can make a general estimate of how many you have and their estimated value. <br>
@@ -171,3 +171,7 @@ React and React-Native will be the frontend of choice for the Web and Mobile var
 ## Database
 Undetermined as of yet. (MongoDB or MySQL)
 
+
+
+<br><br><hr>
+_Copyright &copy; 2021 Destin Mincy. All Rights Reserved._
